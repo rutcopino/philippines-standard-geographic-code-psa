@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<RECORDS>
+	<item>
+		<id>1</id>
+		<psgcCode>010000000</psgcCode>
+		<regDesc>REGION I (ILOCOS REGION)</regDesc>
+		<regCode>01</regCode>
+	</item>
+	<item>
+		<id>2</id>
+		<psgcCode>020000000</psgcCode>
+		<regDesc>REGION II (CAGAYAN VALLEY)</regDesc>
+		<regCode>02</regCode>
+	</item>
+	<item>
+		<id>3</id>
+		<psgcCode>030000000</psgcCode>
+		<regDesc>REGION III (CENTRAL LUZON)</regDesc>
+		<regCode>03</regCode>
+	</item>
+	<item>
+		<id>4</id>
+		<psgcCode>040000000</psgcCode>
+		<regDesc>REGION IV-A (CALABARZON)</regDesc>
+		<regCode>04</regCode>
+	</item>
+	<item>
+		<id>5</id>
+		<psgcCode>170000000</psgcCode>
+		<regDesc>MIMAROPA REGION</regDesc>
+		<regCode>17</regCode>
+	</item>
+	<item>
+		<id>6</id>
+		<psgcCode>050000000</psgcCode>
+		<regDesc>REGION V (BICOL REGION)</regDesc>
+		<regCode>05</regCode>
+	</item>
+	<item>
+		<id>7</id>
+		<psgcCode>060000000</psgcCode>
+		<regDesc>REGION VI (WESTERN VISAYAS)</regDesc>
+		<regCode>06</regCode>
+	</item>
+	<item>
+		<id>8</id>
+		<psgcCode>070000000</psgcCode>
+		<regDesc>REGION VII (CENTRAL VISAYAS)</regDesc>
+		<regCode>07</regCode>
+	</item>
+	<item>
+		<id>9</id>
+		<psgcCode>080000000</psgcCode>
+		<regDesc>REGION VIII (EASTERN VISAYAS)</regDesc>
+		<regCode>08</regCode>
+	</item>
+	<item>
+		<id>10</id>
+		<psgcCode>090000000</psgcCode>
+		<regDesc>REGION IX (ZAMBOANGA PENINSULA)</regDesc>
+		<regCode>09</regCode>
+	</item>
+	<item>
+		<id>11</id>
+		<psgcCode>100000000</psgcCode>
+		<regDesc>REGION X (NORTHERN MINDANAO)</regDesc>
+		<regCode>10</regCode>
+	</item>
+	<item>
+		<id>12</id>
+		<psgcCode>110000000</psgcCode>
+		<regDesc>REGION XI (DAVAO REGION)</regDesc>
+		<regCode>11</regCode>
+	</item>
+	<item>
+		<id>13</id>
+		<psgcCode>120000000</psgcCode>
+		<regDesc>REGION XII (SOCCSKSARGEN)</regDesc>
+		<regCode>12</regCode>
+	</item>
+	<item>
+		<id>14</id>
+		<psgcCode>130000000</psgcCode>
+		<regDesc>NATIONAL CAPITAL REGION (NCR)</regDesc>
+		<regCode>13</regCode>
+	</item>
+	<item>
+		<id>15</id>
+		<psgcCode>140000000</psgcCode>
+		<regDesc>CORDILLERA ADMINISTRATIVE REGION (CAR)</regDesc>
+		<regCode>14</regCode>
+	</item>
+	<item>
+		<id>16</id>
+		<psgcCode>150000000</psgcCode>
+		<regDesc>AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)</regDesc>
+		<regCode>15</regCode>
+	</item>
+	<item>
+		<id>17</id>
+		<psgcCode>160000000</psgcCode>
+		<regDesc>REGION XIII (Caraga)</regDesc>
+		<regCode>16</regCode>
+	</item>
+</RECORDS>
