@@ -13,4 +13,4 @@ This repository contains the Philippine Standard Geographic Code (PSGC) based on
 [Philippine Statistics Authority - PSGC](https://psa.gov.ph/content/psgc-4th-quarter-2019-updates-compostela-valley-now-davao-de-oro)
 
 # Changelog
-* [03/21/2020] - PSGC data as of December 2019 data from PSA with processed formats to json, csv, xml
+* [03/21/2020] - PSGC data as of December 2019 data from PSA with processed formats to json, csv, xml which includes region, province, city/municipality, barangay.
